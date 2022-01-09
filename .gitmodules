@@ -1,0 +1,3 @@
+[submodule "BIAL2"]
+	path = BIAL2
+	url = https://github.com/dudi07/BIAL2.git
